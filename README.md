@@ -1,3 +1,16 @@
+This project is live and has been deployed using Netlify.
+
+Techstack used:- ReactJS,ContextAPI,LocalStorage is also implemented.
+
+Voice Recognition API :- Speechly
+https://hardcore-shirley-974bc6.netlify.app
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
